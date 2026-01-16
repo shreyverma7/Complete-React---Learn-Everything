@@ -1,0 +1,60 @@
+
+ReactJS Full Course | ReactJS - Learn Everything | Sheryians Coding School
+
+
+Link : https://www.youtube.com/watch?v=3LRZRSIh_KE&list=PLbtI3_MArDOm777bemDCy1abP1t1Rnnbx&index=1
+
+
+  #sheryians #jobs #mern
+This is the ReactJS Full Course | Learn Everything from Scratch to Advanced, your complete guide to mastering React in one video.
+
+We’ll start with the basics like components, JSX, props, and state, then move to advanced topics like hooks, context API, routing, and real project setups. By the end, you’ll understand how React really works and how to build production-ready apps confidently.
+
+📘 What’s Inside:
+
+React fundamentals (JSX, Props, State)
+Hooks and Context API
+Routing and API Integration
+Folder structure and best practices
+Real-world project demo
+
+💻 Source Code:
+Access the complete source code of this video here → https://github.com/saarthack/react-yt
+
+If you learned something new, like, comment, and subscribe for more frontend content. Let’s make coding fun and creative 🚀
+
+Instructor in this video: Sarthak Sharma
+
+Don't forget to LIKE 👍 this video, SUBSCRIBE 🔔 for more Web Development tutorials, and COMMENT below if you have any questions or suggestions! 🚀
+
+Visit Our Website - https://sheryians.com/
+
+Chapters - 
+00:00:00 - Introduction
+00:01:10 - React Overview
+00:17:48 - Import & Export
+00:28:47 - Real DOM vs Virtual DOM
+00:36:42 - Setting Up React with Vite
+01:06:28 - Components Explained
+01:26:02 - Understanding Props
+01:47:37 - Mini Projects using Props
+02:50:43 - Styling with CSS
+03:06:48 - Intro to Tailwind CSS
+03:18:23 - UI Design Project
+04:30:51 - Working with Functions
+04:56:23 - Understanding Hooks
+05:12:10 - Advanced State Management
+05:55:58 - Form Handling in React
+06:03:20 - Two-Way Data Binding
+06:15:46 - Notes App Project
+07:21:25 - Using LocalStorage
+07:33:35 - API Calls in React
+07:54:37 - useEffect Hook Explained
+08:17:01 - Gallery Project
+09:15:20 - React Router DOM Basics
+09:42:16 - Advanced Routing
+10:26:36 - Bonus Concepts
+10:36:43 - Context API Introduction
+10:44:18 - Children as Props
+10:57:11 - Context API in Action
+11:15:13 - Outro
